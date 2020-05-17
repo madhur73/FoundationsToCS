@@ -1,2 +1,2 @@
 # FoundationsToCS
-Ho to understand CS : Intutive Way
+Understand CS : Intutive Way
