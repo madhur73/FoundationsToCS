@@ -1,0 +1,45 @@
+So I have started reading Clean Code book by R Martin, It showed me difference between amateur coder and professional coder.
+
+So here are few notes from that are important for any level of coder/ developer:
+
+
+* Coding is human readable medium, its not going anyhwere ther may be new wrapers, abstractions around the legacy code, but still you have to read the code.
+
+* Good and clean is directly proportional to productivity as exprienced developers same. Some have artist view, no duplication, expressionalism, test driven view for clean code.
+
+*CHAPTER 1: Meaningful names
+
+
+* I have been very bad at naming for any class, function or variable because I considered that code readablity is just writing precise code.
+
+* But writing meaningful names serves as first rule for clean code, so here are some notes:
+
+1. name the variable to what they really define like list1 for defioning a list of cells is confusing for other person who is reading your code, instead give a name according to problem domain or CS specific names as most of the readers have CS background. 
+
+2.avoid disinforation: group of account named as accountList >> but for us this means its list of account not group.accounts could be a better name.
+
+3. Make meaningnful distinction: If you name a class CustomerInfo, CustomerData, it would be confusing which one is for what instead just use Customers.make function names distinguishable not like getActiveAccounts() or getActiveAccount() or other shit.
+
+4. Make it pronunciable: when you are reading the code make it like you are reading some prose adn after reading each line you exactly know what that line/ fiunction or vaible belongs to.
+
+5.Use searchable Names:use constant names like MAX_CLASSES_PER_STUDENT rather than 7 , as latter makes it more difficult to search. breakdown mathematical operation into readable terms although this may add few more lines of code but readabliut matter also avoid using just character in global scope, although some short terms like URI.
+
+6. Avoid member prefix: dont use m_dsc .
+
+7. Clarity is King.
+
+8. Method names: they should be verbs and perform unique work.
+
+9. Class Name must be noun like Customer, WikiPage, Account, AccountParser,
+
+10. dont pun : follow one word per concept. use consistency thorughout your code.add() method used for conctenation or used with two objects , for inserting one elemtn use insert().
+
+11. Use meaningful context: when you use firstName, lastName.... together pretty much makes  clear, but if you just use state variable wuld this be [art of address implicitly? avoid this using addrFirstName, addrLastName.
+
+12. good descriptive skills and shared cultural background is required. 
+
+-- END
+
+CHAPTER 2 : Functions
+
+ 
