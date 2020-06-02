@@ -1,3 +1,7 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -12,16 +16,21 @@ public class Main {
 //           System.out.println("NOT Unique charcters");
 //       }
 
-        RotateMatrix myObj = new RotateMatrix();
-        int[][] arr = {
-                        {1, 2, 3},
-                        {4, 5, 6},
-                        {7, 8, 9}
-                };
-        //myObj.printMat(arr);
-        arr = myObj.startRotation(arr);
-        myObj.printMat(arr);
+//       URLify urlObj = new URLify();
+//       String s = "Mr John Smith        ";
+//       s = urlObj.urlConverter(s,13);
+//       System.out.println(s);
 
-                }
+        ThreeSum obj = new ThreeSum();
+        int [] input = { -1, 0, 1, 2, -1, -4};
+        List<List<Integer>> result = obj.threeSum(input);
+
+        for (int i = 0; i < result.size(); i++) {
+            System.out.println(result.get(i));
+
+        }
+
+    }
+
 
 }

@@ -2,9 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88315855-93a5-4306-b2e8-c1e9ec04c8a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ListPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RotateMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/URLify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ClimbStairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/Graphs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ProductofArrayExceptSelf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/StackUsingList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ctci/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ctci/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/InsertionSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/InsertionSort.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,40 +31,37 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ListPalindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
-              <caret line="48" column="5" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="48" selection-end-column="5" />
+            <state relative-caret-position="432">
+              <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/isUnique.java">
+        <entry file="file://$PROJECT_DIR$/src/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="180">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RotateMatrix.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ThreeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="304">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#585#600#0" expanded="true" />
+                <element signature="e#404#413#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,8 +83,17 @@
       <list>
         <option value="$PROJECT_DIR$/src/isUnique.java" />
         <option value="$PROJECT_DIR$/src/RotateMatrix.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/ListPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/stringops.java" />
+        <option value="$PROJECT_DIR$/src/Recursion.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/trylinkedList.java" />
+        <option value="$PROJECT_DIR$/src/linkedList.java" />
+        <option value="$PROJECT_DIR$/src/ArrayList.java" />
+        <option value="$PROJECT_DIR$/src/sorting.java" />
+        <option value="$PROJECT_DIR$/src/URLify.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/ThreeSum.java" />
       </list>
     </option>
   </component>
@@ -92,6 +111,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,12 +129,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589913768217" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590977434861" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -127,7 +146,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayList" />
+      <module name="ctci" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="ctci" />
@@ -138,9 +164,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion" />
+      <module name="ctci" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList" />
+      <module name="ctci" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting" />
+      <module name="ctci" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.sorting" />
+        <item itemvalue="Application.linkedList" />
+        <item itemvalue="Application.ArrayList" />
+        <item itemvalue="Application.Recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -159,9 +210,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="32" width="1920" height="989" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17006437" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.105686694" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -178,7 +228,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3297619" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -188,12 +238,78 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.105686694" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297619" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3297619" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/URLify.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/src/trylinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/src/stringops.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Recursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -213,12 +329,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ListPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="48" column="5" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="48" selection-end-column="5" />
+        <state relative-caret-position="288">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#242#243#0" expanded="true" />
             <element signature="e#280#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/URLify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#585#600#0" expanded="true" />
+            <element signature="e#404#413#0" expanded="true" />
           </folding>
         </state>
       </provider>
